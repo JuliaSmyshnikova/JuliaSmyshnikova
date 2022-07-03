@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @JuliaSmyshnikova
-- 👀 I’m interested in QA .
-- 🌱 I’m currently learning QA , SQL.
-- 💞️ I’m looking to collaborate on QA tester Manualny 
+- 👋 Hi, I’m @JuliaSmyshnikova.I am from UKR.
+- 👀 I’m interested in such YouTube channels like: engVid: Learn English ,Artsiom Rusau QA Life.
+- 🌱 I’m currently learning : DobreKursy.it 
+- 💞️ I’m looking to collaborate with an excellent company where I will be able to get into IT atmosphere and bring additional value as well the company , as myself.
+-
 
 
 <!---
