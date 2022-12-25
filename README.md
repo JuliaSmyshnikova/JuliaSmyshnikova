@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliaSmyshnikova.I am from UKR.
-- 👀 I’m interested in such YouTube channels like: engVid: Learn English and Artsiom Rusau QA Life.
-- 🌱 I’m currently learning : DobreKursy.it 
+- 👀 I’m interested in such YouTube channels like: engVid: Learn English .
+- 🌱 I’m currently learning : JS
 - 💞️ I’m looking to collaborate with an excellent company ,where I will be able to get into IT atmosphere and bring additional value ,as well the company as myself.
 -
 
